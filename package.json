@@ -1,0 +1,23 @@
+{
+  "name": "levitate",
+  "version": "1.0.0",
+  "description": "floating window app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjunathNayak2k/levitate.git"
+  },
+  "author": "Manjunath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManjunathNayak2k/levitate/issues"
+  },
+  "homepage": "https://github.com/ManjunathNayak2k/levitate#readme",
+  "devDependencies": {
+    "electron": "^9.2.1"
+  }
+}
